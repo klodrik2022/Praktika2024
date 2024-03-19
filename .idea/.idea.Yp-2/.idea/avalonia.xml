@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Yp-2/AddForm.axaml" value="Yp-2/Yp-2.csproj" />
+        <entry key="Yp-2/App.axaml" value="Yp-2/Yp-2.csproj" />
+        <entry key="Yp-2/MainWindow.axaml" value="Yp-2/Yp-2.csproj" />
+        <entry key="Yp-2/Note.axaml" value="Yp-2/Yp-2.csproj" />
+        <entry key="Yp-2/Servic.axaml" value="Yp-2/Yp-2.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
